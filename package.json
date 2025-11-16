@@ -8,7 +8,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist -r https://github.com/SoniTheBughehog/MyPico8Showcase.git"
   },
   "dependencies": {
     "vue": "^3.5.24",
