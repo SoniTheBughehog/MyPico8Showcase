@@ -1,5 +1,8 @@
 # 🎮 SoniTheBughehog — Game Showcase
 
+👉 **Check out my games here:**  
+[MyPico8Showcase](https://sonithebughehog.github.io/MyPico8Showcase/)
+
 Welcome to my personal game showcase!  
 This website is a simple, lightweight hub where I publish the games I create — from small prototypes to finished projects.
 
